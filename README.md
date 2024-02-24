@@ -1,4 +1,4 @@
-👋 Hi
+👋 hi
 
 <!---
 lim-joseph/lim-joseph is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
