@@ -2,7 +2,7 @@
 
 i'm a software engineering student @ monash university
 
-- 🔭 Working on: [MWBS](https://mwbs.store)
+- 🔭 Working on: [MHP Telemetry](https://github.com/monash-human-power/data-acquisition-system), [MWBS Website](https://mwbs.store)
 - 🌱 Currently learning: Typescript, C/C++
 
 ----
