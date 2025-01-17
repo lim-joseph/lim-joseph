@@ -3,7 +3,7 @@
 i'm a software engineering student @ monash university
 
 - 🔭 Working on: [MHP V4 Telemetry](https://github.com/monash-human-power/data-acquisition-system), [MWBS Website](https://mwbs.store)
-- 🌱 Currently learning: Typescript, C/C++
+- 🌱 Currently learning: React Native, C/C++
 
 ----
 
