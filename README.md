@@ -2,7 +2,7 @@
 
 i'm a software engineering student @ monash university
 
-- 🔭 Working on: [Focus Bear Mobile App](https://www.focusbear.io/), [MHP V4 Telemetry](https://github.com/monash-human-power/data-acquisition-system), [MWBS Website](https://mwbs.store)
+- 🔭 Working on: [FocusBear](https://www.focusbear.io/), [MHP V4 Telemetry](https://github.com/monash-human-power/data-acquisition-system), [MWBS Website](https://mwbs.store)
 - 🌱 Currently learning: React Native, C/C++
 
 ----
