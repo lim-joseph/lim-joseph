@@ -2,8 +2,9 @@
 
 i'm a software engineering student @ monash university
 
+- 💼 Interning at: [Agilent Technologies](https://www.agilent.com)
 - 🔭 Working on: [FocusBear](https://www.focusbear.io/), [MHP V4 Telemetry](https://github.com/monash-human-power/data-acquisition-system), [MWBS Website](https://mwbs.store)
-- 🌱 Currently learning: Node, React Native, C/C++
+- 🌱 Currently learning: E2E Test Automation, Node, C/C++
 
 ----
 
